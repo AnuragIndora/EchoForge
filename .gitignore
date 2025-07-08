@@ -1,0 +1,7 @@
+# ignore the input & output folder
+input/
+output/
+
+# ignore the audio files and scripted text
+**/*.mp3
+**/*.txt
